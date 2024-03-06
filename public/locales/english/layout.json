@@ -1,11 +1,13 @@
 {
-    "title": "Vapor X Crawlspaces",
+    "title": "Valentin Law",
     "description": "Vapor-X Crawlspaces specializes in waterproofing crawlspaces, offering high-quality services at affordable prices. Sean Williams is the primary waterproofing expert with years of experience.",
     "applicationName": "Vapor X Crawlspaces",
     "creator": "Jesus Chavez",
     "publisher": "Jesus Chavez",
-    "number": "(803)-638-3608",
-    "email": "vaporxcrawlspaces@gmail.com",
+    "number": "(404)-919-0443",
+    "email": "julio@valentinlaw.us",
+    "address": "1201 W Peachtree St NW suite 2300",
+    "city": "Atlanta, GA 30309",
     "sitemap": {
         "home": "home",
         "about": "about",

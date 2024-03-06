@@ -2,44 +2,52 @@ import { CheckIcon } from '@heroicons/react/20/solid'
 
 const features = [
     {
-        name: 'Full Encapsulations',
-        description: 'Comprehensive encapsulation solutions for complete protection against moisture, mold.',
+        name: 'Removal Defense',
+        description: 'Legal defense services for individuals facing deportation, ensuring their rights are protected throughout the removal proceedings.',
     },
     {
-        name: 'Partial Encapsulations',
-        description: 'Targeted encapsulation services for specific areas, providing effective moisture.',
+        name: 'Asylum',
+        description: 'Assistance with asylum applications for those seeking protection due to persecution or fear of persecution in their home country.',
     },
     {
-        name: 'Sump Pump Installs',
-        description: 'Professional installation of sump pumps to efficiently manage and redirect excess water away from your crawlspace.',
+        name: 'Cancellation of Removal',
+        description: 'Expert legal representation for eligible individuals seeking to cancel their removal from the U.S. and obtain lawful status.',
     },
     {
-        name: 'French Drain System Exterior/Interior',
-        description: 'Expert installation of French drain systems, both exterior and interior, for superior drainage and water management.',
+        name: 'Adjustment of Status',
+        description: 'Guidance and support for individuals seeking to change their legal status to lawful permanent resident within the United States.',
     },
     {
-        name: 'Dehumidifier & Condensation Pump Install',
-        description: 'Installation of high-quality dehumidifiers and condensation pumps to maintain optimal humidity levels in your crawlspace.',
+        name: 'Consular Processing',
+        description: 'Assistance with obtaining visas through U.S. consulates abroad, facilitating lawful entry into the United States for various purposes.',
     },
     {
-        name: 'Crawlspace Clean-Out',
-        description: 'Thorough clean-out services to remove debris and contaminants, ensuring a clean and healthy crawlspace environment.',
+        name: 'Special Immigrant Juvenile Status',
+        description: 'Legal services for minors who have been abused, neglected, or abandoned, seeking to obtain lawful permanent residency in the U.S.',
     },
     {
-        name: 'Vapor Barriers',
-        description: 'Installation of durable vapor barriers to prevent moisture ingress, mold growth, and improve overall crawlspace health.',
+        name: 'Naturalizations',
+        description: 'Support and representation for individuals seeking to become U.S. citizens through the naturalization process.',
     },
     {
-        name: 'Insulation Install',
-        description: 'High-grade insulation installation for enhanced energy efficiency and thermal protection of your crawlspace.',
+        name: 'Waivers',
+        description: 'Assistance with filing waivers for individuals who are ineligible for a visa or green card due to certain grounds of inadmissibility.',
     },
     {
-        name: 'Downspout Extension',
-        description: 'Effective downspout extensions to divert water away from the foundation, preventing water damage and erosion.',
+        name: 'Mandamus',
+        description: 'Filing of mandamus actions to compel government action on delayed immigration applications and petitions.',
     },
     {
-        name: 'Mold Remediation',
-        description: 'Professional mold remediation services to identify, treat, and prevent mold infestations in your crawlspace.',
+        name: 'Family Petitions',
+        description: 'Guidance on filing petitions for family members to immigrate to the U.S., including spouses, children, and other close relatives.',
+    },
+    {
+        name: 'U-Visa',
+        description: 'Assistance with U-Visa applications for victims of crimes in the U.S. who have cooperated with law enforcement.',
+    },
+    {
+        name: 'DACA',
+        description: 'Legal services for individuals applying for or renewing Deferred Action for Childhood Arrivals (DACA) status.',
     },
 ]
 

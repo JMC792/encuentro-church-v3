@@ -3,6 +3,7 @@ import { PhotoIcon, UserCircleIcon } from '@heroicons/react/24/solid'
 import { Fragment } from 'react'
 import Image from 'next/image'
 import { BuildingOffice2Icon, EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/outline'
+import layout from 'public/locales/english/layout.json'
 
 
 export default function Form3(props) {
@@ -53,17 +54,17 @@ export default function Form3(props) {
               <dl className="mt-10 space-y-4 text-base leading-7 text-gray-600">
                 
                 {/* Address */}
-                {/* <div className="flex gap-x-4">
+                <div className="flex gap-x-4">
                   <dt className="flex-none">
                     <span className="sr-only">Address</span>
                     <BuildingOffice2Icon className="h-7 w-6 text-gray-400" aria-hidden="true" />
                   </dt>
                   <dd>
-                    545 Mavis Island
+                    {layout.address}
                     <br />
-                    Chicago, IL 99191
+                    {layout.city}
                   </dd>
-                </div> */}
+                </div>
 
                 {/* Phone */}
                 <div className="flex gap-x-4">

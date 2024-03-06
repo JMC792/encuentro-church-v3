@@ -3,27 +3,27 @@ import Link from 'next/link'
 
 const features = [
     {
-    name: 'Full encapsulations',
+    name: 'Asylum Applications',
     description:
-        'Enhance your home`s health and efficiency with our Full Crawlspace Encapsulation. Seal out moisture, ensuring a safer, mold-free environment',
+        'Navigating the complexities of visa applications with expert guidance and support, ensuring accuracy and efficiency throughout the process.',
     icon: CloudArrowUpIcon,
     },
     {
-    name: 'Partial Encapsulations',
+    name: 'Naturalization Process',
     description:
-        'Optimize your home`s protection with Partial Crawlspace Encapsulation. Tailored to target key areas, it offers effective moisture and mold defense',
+        'Assisting individuals and families in obtaining green cards through comprehensive legal counsel and diligent representation.',
     icon: LockClosedIcon,
     },
     {
-    name: 'Sump Pump Install',
+    name: 'Visa Applications',
     description:
-        'Secure your home against water damage with our expert Sump Pump Installation. Reliable, efficient solutions to keep your crawlspace dry and protected',
+        'Facilitating the path to citizenship with tailored legal strategies and personalized assistance, guiding clients through each step of the naturalization process.',
     icon: ArrowPathIcon,
     },
     {
-    name: 'French drain system exterior/interior',
+    name: 'Adjustment of Status',
     description:
-        'Efficiently manage water around your home with our French Drain System installation. Designed for optimal drainage, it effectively prevents water accumulation and safeguards your property foundation',
+        'Providing compassionate legal support to individuals seeking asylum, ensuring their rights are protected and advocating for their safety and well-being.',
     icon: FingerPrintIcon,
     },
 ]

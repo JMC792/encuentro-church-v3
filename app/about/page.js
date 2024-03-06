@@ -42,14 +42,6 @@ export default function Page() {
         paragraph3={language.index.mission.paragraph3}
         paragraph4={language.index.mission.paragraph4}
       />
-      <Newsletter
-        heading={language.index.newsletter.heading}
-        title={language.index.newsletter.title}
-        sentence={language.index.newsletter.sentence}
-        button={language.index.newsletter.button.title}
-        buttonLink={language.index.newsletter.button.link}
-        background="bg-back-2"
-      />
     </Fragment>
   );
 }

@@ -16,7 +16,9 @@ export default function Example(props) {
 
                     {/* Paragraph */}
                     <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
-                        <p>{props.paragraph}</p>
+                        <p>
+                            {props.paragraph}
+                        </p>
                     </blockquote>
 
                     {/* Text Wrapper */}
@@ -32,12 +34,14 @@ export default function Example(props) {
                             <div className="font-semibold text-gray-900">{props.name}</div>
 
                             {/* Bullet */}
-                            <svg viewBox="0 0 2 2" width={3} height={3} aria-hidden="true" className="fill-gray-900">
+                            {/* <svg viewBox="0 0 2 2" width={3} height={3} aria-hidden="true" className="fill-gray-900">
                                 <circle cx={1} cy={1} r={1} />
-                            </svg>
+                            </svg> */}
 
                             {/* Position */}
-                            <div className="text-gray-600">{props.position}</div>
+                            {/* <div className="text-gray-600">
+                                {props.position}
+                            </div> */}
 
                         </div>
                     </figcaption>

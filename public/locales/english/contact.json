@@ -17,14 +17,14 @@
         "subtitle": "contact"
     },
     "form": {
-        "heading" : "Contact Us",
-        "title" : "Lets Connect!",
-        "paragraph" : "Have questions or need our services? We're here to help! Reach out to Vapor X Crawlspace for expert advice, consultations, and service scheduling. Fill out the form or give us a call – our team is ready to ensure your home's crawlspace is in the best hands.",
-        "button" : {
-            "title": "Submit",
+        "heading": "Contact Us",
+        "title": "Get in Touch!",
+        "paragraph": "Have inquiries or require our assistance? We're here to assist you! Contact Valentin Immigration Law Firm for expert guidance, consultations, and appointment scheduling. Fill out the form or give us a call – our team is prepared to handle your immigration matters with care.",
+        "button": {
+            "title": "Send",
             "link": ""
         }
-    },
+    },    
     "stat":{
         "one": {
             "title":"Phone",

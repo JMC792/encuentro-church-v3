@@ -3,19 +3,19 @@ import Image from 'next/image'
 
 const features = [
   {
-    name: 'Unmatched Speed in Service.',
+    name: 'Swift and Efficient Service',
     description:
-      'Experience rapid response and swift project completion with us. Our team prides itself on being the fastest in the business, ensuring your crawlspace needs are met promptly without sacrificing quality',
+      'Experience prompt response times and efficient handling of your immigration matters. Our team prides itself on its speed and effectiveness, ensuring your needs are addressed promptly while maintaining the highest standards of quality.',
     icon: CheckCircleIcon,
   },
   {
-    name: 'Precision and Expertise',
-    description: 'Our precision in every crawlspace project sets us apart. With a team of seasoned experts, we guarantee meticulous attention to detail, delivering superior quality and lasting solutions',
+    name: 'Expertise and Accuracy',
+    description: 'Our team`s expertise in immigration law ensures accurate and precise handling of your case. With our seasoned professionals, you can trust that every detail will be meticulously addressed, resulting in optimal outcomes for your legal matters.',
     icon: CheckCircleIcon,
   },
   {
-    name: 'Unrivaled Customer Satisfaction',
-    description: 'Customer satisfaction is our top priority. We go above and beyond to ensure every client is delighted with our service, from the initial consultation to the final walkthrough. Trust us for a service experience that`s simply unmatched',
+    name: 'Dedicated to Client Satisfaction',
+    description: 'Client satisfaction drives everything we do. From the initial consultation to the resolution of your immigration issues, we prioritize your satisfaction and strive to exceed your expectations at every step of the process. Trust us for an unparalleled service experience.',
     icon: CheckCircleIcon,
   },
 ]
@@ -54,7 +54,7 @@ export default function ProductScreenshot(props) {
 
           {/* Image */}
           <Image
-            src={props.image}
+            src={'https://images.unsplash.com/photo-1423592707957-3b212afa6733?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&&q=100&w=2070&auto=format&fit=crop'}
             alt="Product screenshot"
             className="order-1 w-[48rem] max-w-none rounded-xl ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
             width={2432}

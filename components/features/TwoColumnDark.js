@@ -1,13 +1,13 @@
 const stats = [
-    { label: 'Founded', value: '2023' },
-    { label: 'Employee', value: '1' },
-    { label: 'Counties', value: '+10' },
-    { label: 'Homes', value: '+20' },
+    { label: 'Founded', value: '2021' },
+    { label: 'Cases', value: '+50' },
+    { label: 'Cities', value: '+10' },
+    { label: 'Lives Saved', value: '+100' },
 ]
 
 export default function TwoColumnDark(props) {
     return (
-        <div className="rounded-3xl bg-gray-900 py-24 sm:py-32">
+        <div className=" bg-gray-900 py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-none">
 

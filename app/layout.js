@@ -15,12 +15,12 @@ import email from "public/icons/email.svg"
 export const metadata = {
   title: {
     //template: "%s | " + [layout.title],
-    default: 'Vapor X Crawlspaces',
+    default: 'Valentin Law',
   },
-  description: {default: [layout.description]},
-  appliationName: [layout.applicationName],
-  creator: [layout.creator],
-  publisher: [layout.publisher],
+  description: "Valentin Law, based in Atlanta, GA, specializes in immigration law, offering services from asylum applications to naturalization. Our experienced team is dedicated to guiding individuals and families through the complexities of U.S. immigration, ensuring personalized support and effective advocacy.",
+  appliationName: "Valentin Law",
+  creator: "Mauricio Chavez",
+  publisher: "Mauricio Chavez",
 };
 
 const inter =Inter({subsets:['latin']})
@@ -52,7 +52,7 @@ export default function RootLayout({
           internal={[
             layout.sitemap.home, //Home
             layout.sitemap.about, //About
-            layout.sitemap.portfolio, //Portfolio
+            //layout.sitemap.portfolio, //Portfolio
             layout.sitemap.contact, //Contact
             layout.sitemap.service, //Service
           ]}

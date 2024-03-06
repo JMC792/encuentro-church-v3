@@ -58,14 +58,14 @@ export default function Page() {
             />
 
             {/* Newsletter */}
-            <Newsletter
+            {/* <Newsletter
               heading={language.index.newsletter.heading}
               title={language.index.newsletter.title}
               sentence={language.index.newsletter.sentence}
               button={language.index.newsletter.button.title}
               buttonLink={language.index.newsletter.button.link}
               background="bg-back-2"
-            />
+            /> */}
         </Fragment>
   );
 }

@@ -74,13 +74,13 @@ function Navbar(props) {
                                 </div>
 
                                 {/* Portfolio */}
-                                <div className="text-[16px] font-medium hover:text-yellow-600 transition-colors delay-100">
+                                {/* <div className="text-[16px] font-medium hover:text-yellow-600 transition-colors delay-100">
                                     <Link href= {"/" + [props.link3]}>
                                         <div className="capitalize">
                                             {props.link3}
                                         </div>
                                     </Link>
-                                </div>
+                                </div> */}
 
                                 {/* Contact */}
                                 <div className="text-[16px] font-medium hover:text-yellow-600 transition-colors delay-100">

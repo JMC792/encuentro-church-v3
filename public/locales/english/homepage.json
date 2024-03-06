@@ -5,54 +5,54 @@
         "description": ""
     },
     "hero": {
-        "title": "Protect Your Home's Foundation with Confidence!",
-        "subtitle": "Discover top-notch crawlspace solutions in Columbia, SC. Special discounts for military, educators, and seniors. Ensure a dry, efficient home today",
+        "title": "Secure Your Path to Legal Residence with Assurance!",
+        "subtitle": "Explore premier immigration legal services in Atlanta, GA. Exclusive offers for veterans, educators, and seniors. Guarantee your lawful status today.",
         "button": {
-            "title": "Get Started",
+            "title": "Begin Now",
             "link": "/contact"
         }
     },
     "services": {
         "heading": "Our Services",
-        "title": "Comprehensive Crawlspace Services",
-        "paragraph": "Discover top-notch crawlspace solutions in Columbia, SC. Special discounts for military, educators, and first responders. Ensure a dry, efficient home today",
-        "one":{
-            "image": "/icons/Homepage/svg2.1.svg",
-            "title": "Commercials",
-            "paragraph": "Elevating brands with striking commercial photography that tells your story and showcases your business in the best light"
+        "title": "Comprehensive Immigration Legal Services",
+        "paragraph": "Explore top-tier immigration legal solutions in Atlanta, GA. Exclusive offers for veterans, educators, and first responders. Ensure your legal status with confidence today.",
+        "one": {
+        "image": "/icons/Homepage/svg2.1.svg",
+        "title": "Visa Applications",
+        "paragraph": "Navigating the complexities of visa applications with expert guidance and support, ensuring accuracy and efficiency throughout the process."
         },
-        "two":{
-            "image": "/icons/Homepage/svg2.2.svg",
-            "title": "Real Estate",
-            "paragraph": "Capturing the essence of properties with exceptional real estate photography that highlights every unique space and detail."
+        "two": {
+        "image": "/icons/Homepage/svg2.2.svg",
+        "title": "Green Card",
+        "paragraph": "Assisting individuals and families in obtaining green cards through comprehensive legal counsel and diligent representation."
         },
-        "three":{
-            "image": "/icons/Homepage/svg2.3.svg",
-            "title": "Graduation",
-            "paragraph": "Immortalizing graduation milestones with vibrant and expressive photography that celebrates your academic achievements"
+        "three": {
+        "image": "/icons/Homepage/svg2.3.svg",
+        "title": "Citizenship",
+        "paragraph": "Facilitating the path to citizenship with tailored legal strategies and personalized assistance, guiding clients through each step of the naturalization process."
         },
-        "four":{
-            "image": "/icons/services/thai.svg",
-            "title": "Aerial",
-            "paragraph": "Elevating perspectives with breathtaking aerial photography, showcasing landscapes and structures from a stunning bird's-eye view."
+        "four": {
+        "image": "/icons/services/thai.svg",
+        "title": "Asylum",
+        "paragraph": "Providing compassionate legal support to individuals seeking asylum, ensuring their rights are protected and advocating for their safety and well-being."
         },
         "button": {
-            "title": "Learn More",
-            "link": "/contact"
+        "title": "Discover More",
+        "link": "/contact"
         }
     },
     "about": {
         "heading": "About Us",
-        "title": "Our Journey and Passion",
+        "title": "Our Story and Mission",
         "paragraph": {
-            "one" : "Being established in Columbia, SC since 2023, Vapor-X Crawlspaces has been known for an unparalleled commitment to customer satisfaction. It’s this standard of excellence that has provided the impetus for us to grow into the business we are today. With our low affordable pricing and smaller company size, we are able to provide quality services at a fraction of the cost of larger companies.",
-            "two" : ""
+            "one": "Established in Atlanta, GA since 2021, Valentin Law Immigration Law Firm is renowned for our unwavering dedication to client satisfaction. It's our commitment to excellence that has propelled us to where we are today. With our competitive pricing and personalized approach, we strive to deliver top-notch legal services at a fraction of the cost of larger firms.",
+            "two": ""
         },
         "button": {
-            "title": "Join Us",
+            "title": "Connect with Us",
             "link": "/contact"
         }
-    },
+    },    
     "stat": {
         "days": {
             "monday": "monday",
@@ -87,19 +87,19 @@
     "testimonials": {
         "heading": "Success Stories",
         "title": "Hear What Our Members Say",
-        "name": "Mauricio Chavez",
+        "name": "David Aguilar",
         "position": "Queen City Web Solutions",
-        "paragraph": "Queen City Web Solutions is thrilled with the exceptional quality of work delivered by Krispy Captures. Their eye for detail and creative approach to aerial photography has provided us with truly captivating visuals that have elevated our web design projects. The professionalism and skill exhibited by the Krispy Captures team are unmatched, making them our go-to for all our photography needs."
+        "paragraph": "Excellent service, Julio is a great person and because of his help my dad was able to get his residency. Julio took his time and prepared and guided my dad thru this difficult path. I will be always grateful for helping us."
     },
     "mission": {
         "heading": "Why Choose Us",
-        "title": "Pixel Perfect Portraits",
-        "paragraph1": "We're not just service providers; we're local experts. With years of experience in Columbia, SC, we understand the unique challenges that our climate and geography present to crawlspaces. Our specialized knowledge ensures that we offer the most effective and efficient solutions tailored to your home's specific needs.",
-        "paragraph2": "Quality is at the heart of everything we do. We use only the best materials and cutting-edge techniques to ensure long-lasting results. Our reliable team is committed to completing every project with the utmost care and precision, ensuring that your crawlspace remains safe and secure for years to come.",
-        "paragraph3": "We take a customer-centric approach, meaning we listen to your concerns, respect your schedule, and customize our services to meet your specific needs. We believe in building lasting relationships with our clients, and your satisfaction is our top priority.",
-        "paragraph4": "We offer a full range of crawlspace services - from encapsulation and insulation to repair and maintenance. What's more, we provide these comprehensive services at competitive prices, ensuring you get the best value without compromising on quality. Plus, our special discounts for military, first responders, educators, and seniors make our services even more accessible.",
+        "title": "Trusted Immigration Solutions",
+        "paragraph1": "We're more than just legal representatives; we're your local immigration advocates. With extensive experience serving the Atlanta, GA community, we comprehend the unique legal challenges individuals face in this region. Our specialized expertise ensures tailored solutions designed to address your immigration needs effectively and efficiently.",
+        "paragraph2": "Quality is our hallmark. We utilize top-tier legal strategies and state-of-the-art methodologies to secure enduring outcomes for our clients. Our dedicated team is committed to executing every case with precision and care, ensuring your legal status is safeguarded for the long haul.",
+        "paragraph3": "Client satisfaction drives our approach. We value your input, honor your timelines, and tailor our services to fit your specific requirements. We believe in fostering enduring partnerships with our clients, with your contentment being our foremost priority.",
+        "paragraph4": "We offer a comprehensive array of immigration services, from visa applications and green card assistance to asylum representation. Moreover, we deliver these extensive services at competitive rates, ensuring you receive optimal value without compromising on quality. Additionally, our exclusive discounts for military personnel, first responders, educators, and seniors make our services even more accessible.",
         "button": {
-            "title": "Get in Touch",
+            "title": "Reach Out",
             "link": "/contact"
         }
     },

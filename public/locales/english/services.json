@@ -8,10 +8,10 @@
             "subtitle": "service"
         },
         "section1": {
-            "heading": "Your Crawlspace, Our Priority",
-            "title": "Comprehensive Crawlspace Solutions",
-            "paragraph": "We specialize in a full range of crawlspace services, tailored to protect and improve your home. From full encapsulation to mold remediation, we offer expert solutions to ensure the health and efficiency of your living space. Trust us to keep your crawlspace dry, safe, and well-maintained."
-        },
+            "heading": "Navigating Immigration, Together",
+            "title": "Expert Immigration Legal Services",
+            "paragraph": "We specialize in a comprehensive suite of immigration legal services, designed to navigate the complexities of the U.S. immigration system. From removal defense to naturalization, we provide skilled guidance and support to individuals and families seeking a new life in the United States. Trust us to advocate for your rights and help you achieve your immigration goals."
+        },        
         "services": {
             "heading": "Our Services",
             "title": "Diverse Photography Services",
@@ -39,15 +39,6 @@
             "button": {
                 "title": "Learn More",
                 "link": "/contact"
-            }
-        },
-        "section2": {
-            "heading": "Capturing the Essence of Charlotte",
-            "title": "Highlighting your local expertise and connection to the Charlotte area",
-            "paragraph": "Krispy Captures offers a blend of artistic vision and technical expertise, ensuring each photograph we take is not just a picture, but a storytelling masterpiece that meets your unique needs.",
-            "button": {
-                "title": "Learn More",
-                "link": "/learn-more"
             }
         }
 }

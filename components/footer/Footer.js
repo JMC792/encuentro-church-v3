@@ -11,7 +11,7 @@ export default function Footer(props) {
 
   return (
     <Fragment>
-      <footer className="bg-neutral-800">
+      <footer className="bg-gray-900">
         {/* Footer Container */}
         <div className="container text-white">
           {/* Footer padding and Margin */}

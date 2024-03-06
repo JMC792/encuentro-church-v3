@@ -10,7 +10,7 @@ export default function Hero2(props) {
             {/* Hero Background */}
             <div className={"h-1/5 relative"} id="header">
             <Image
-                src={'https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&&exp=-35&q=100&w=2070&auto=format&fit=crop&blur=20'}
+                src={'https://images.unsplash.com/photo-1436450412740-6b988f486c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&&exp=-35&q=100&w=2070&auto=format&fit=clampl'}
                 alt="Background"
                 fill
                 quality={90}
