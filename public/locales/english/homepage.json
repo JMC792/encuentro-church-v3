@@ -5,8 +5,8 @@
         "description": ""
     },
     "hero": {
-        "title": "Secure Your Path to Legal Residence with Assurance!",
-        "subtitle": "Explore premier immigration legal services in Atlanta, GA. Exclusive offers for veterans, educators, and seniors. Guarantee your lawful status today.",
+        "title": "Fight for your American Dream",
+        "subtitle": "Explore premier immigration services. While based in Atlanta, Georgia, Valentin Law, LLC is able to provide representation in 50 states. Immigration for All",
         "button": {
             "title": "Begin Now",
             "link": "/contact"
@@ -14,8 +14,8 @@
     },
     "services": {
         "heading": "Our Services",
-        "title": "Comprehensive Immigration Legal Services",
-        "paragraph": "Explore top-tier immigration legal solutions in Atlanta, GA. Exclusive offers for veterans, educators, and first responders. Ensure your legal status with confidence today.",
+        "title": "Client-Centered Immigration Services",
+        "paragraph": "Each case is different. Valentin Law, LLC focuses on your circumstances, and your best solution. You and your  case will always be our priority.",
         "one": {
         "image": "/icons/Homepage/svg2.1.svg",
         "title": "Visa Applications",
