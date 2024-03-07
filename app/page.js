@@ -11,7 +11,7 @@ import language from "/public/locales/english/homepage.json";
 // Icons
 
 // Images
-import image4 from "/public/images/homepage/homepage1.webp";
+import image4 from "/public/images/homepage/photo1.jpeg";
 import Newsletter from "../components/newsletter/CTA1";
 import ProductScreenshot from "@components/features/ProductScreenshot";
 
@@ -56,6 +56,7 @@ export default function Page() {
               paragraph={language.index.testimonials.paragraph}
               position={language.index.testimonials.position}
             />
+            
 
             {/* Newsletter */}
             {/* <Newsletter

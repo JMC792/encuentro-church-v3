@@ -5,25 +5,25 @@ const features = [
     {
     name: 'Asylum Applications',
     description:
-        'Navigating the complexities of visa applications with expert guidance and support, ensuring accuracy and efficiency throughout the process.',
+        'Seeking asylum and protection from past persecution or conditions in one`s home country is of the most complex parts of the immigration system. Let us guide your thorugh this process.',
     icon: CloudArrowUpIcon,
     },
     {
     name: 'Naturalization Process',
     description:
-        'Assisting individuals and families in obtaining green cards through comprehensive legal counsel and diligent representation.',
+        'The path to American citizenship is long and can require many years of diligent work and preparation. We will be there every step of the way.',
     icon: LockClosedIcon,
     },
     {
-    name: 'Visa Applications',
+    name: 'Removal Defense (Immigration Court)',
     description:
-        'Facilitating the path to citizenship with tailored legal strategies and personalized assistance, guiding clients through each step of the naturalization process.',
+        'Being placed in immigraiton court can be a very confusing process. Failing to prepare a defense can result in deportation. Lets figure our your options, and move forward with the best defense in your case.',
     icon: ArrowPathIcon,
     },
     {
     name: 'Adjustment of Status',
     description:
-        'Providing compassionate legal support to individuals seeking asylum, ensuring their rights are protected and advocating for their safety and well-being.',
+        'Seeking residence in the United States? Let us guide you through the many steps involved in properly seeking this immigration benefit.',
     icon: FingerPrintIcon,
     },
 ]
