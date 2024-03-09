@@ -34,14 +34,14 @@ export default function Page() {
         paragraph={language.index.about.paragraph.one}
         image={image4}
       />
-      <TwoColumnDark
+      {/* <TwoColumnDark
         heading={language.index.mission.heading}
         title={language.index.mission.title}
         paragraph1={language.index.mission.paragraph1}
         paragraph2={language.index.mission.paragraph2}
         paragraph3={language.index.mission.paragraph3}
         paragraph4={language.index.mission.paragraph4}
-      />
+      /> */}
     </Fragment>
   );
 }
