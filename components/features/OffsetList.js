@@ -18,36 +18,12 @@ const features = [
         description: 'Guidance and support for individuals seeking to change their legal status to lawful permanent resident within the United States.',
     },
     {
-        name: 'Consular Processing',
-        description: 'Assistance with obtaining visas through U.S. consulates abroad, facilitating lawful entry into the United States for various purposes.',
-    },
-    {
-        name: 'Special Immigrant Juvenile Status',
-        description: 'Legal services for minors who have been abused, neglected, or abandoned, seeking to obtain lawful permanent residency in the U.S.',
-    },
-    {
         name: 'Naturalizations',
         description: 'Support and representation for individuals seeking to become U.S. citizens through the naturalization process.',
     },
     {
-        name: 'Waivers',
-        description: 'Assistance with filing waivers for individuals who are ineligible for a visa or green card due to certain grounds of inadmissibility.',
-    },
-    {
-        name: 'Mandamus',
-        description: 'Filing of mandamus actions to compel government action on delayed immigration applications and petitions.',
-    },
-    {
         name: 'Family Petitions',
         description: 'Guidance on filing petitions for family members to immigrate to the U.S., including spouses, children, and other close relatives.',
-    },
-    {
-        name: 'U-Visa',
-        description: 'Assistance with U-Visa applications for victims of crimes in the U.S. who have cooperated with law enforcement.',
-    },
-    {
-        name: 'DACA',
-        description: 'Legal services for individuals applying for or renewing Deferred Action for Childhood Arrivals (DACA) status.',
     },
 ]
 

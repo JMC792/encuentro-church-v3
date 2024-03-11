@@ -4,6 +4,13 @@ import Image from "next/image";
 
 export default function Hero({title,subtitle,button}) {
 
+    const text = {
+        title: "Fight for your American Dream with Proven and Trustworthy Representation",
+        subtitle: "Explore premier immigration services. While based in Atlanta, Georgia, Valentin Law, LLC is able to provide representation in 50 states. Immigration for All",
+        button1: "Get started",
+        button2: "Learn more"
+    }
+
     return(
         <Fragment>
 

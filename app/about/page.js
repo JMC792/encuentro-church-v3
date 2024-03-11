@@ -10,7 +10,7 @@ import TwoColumnDark from "@components/features/TwoColumnDark.js";
 import Newsletter from "@components/newsletter/CTA1.js";
 
 //Images
-import image4 from "/public/images/homepage/homepage1.webp";
+import image4 from "/public/images/homepage/photo1.jpeg";
 
 //SVG
 
