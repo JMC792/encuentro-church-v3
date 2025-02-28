@@ -15,10 +15,10 @@ import email from "public/icons/email.svg"
 export const metadata = {
   title: {
     //template: "%s | " + [layout.title],
-    default: 'Valentin Law',
+    default: 'Encuentro Church',
   },
-  description: "Valentin Law, based in Atlanta, GA, specializes in immigration law, offering services from asylum applications to naturalization. Our experienced team is dedicated to guiding individuals and families through the complexities of U.S. immigration, ensuring personalized support and effective advocacy.",
-  appliationName: "Valentin Law",
+  description: "Encuentro Church is a multi-cultural and multi-lingual christian church located in Charlotte, North Carolina. We are dedicated to helping people from all walks of life find the lord and live in his name everyday. Services begin Sunday at 11:00am at our Charlotte campus and online",
+  appliationName: "Encuentro Church",
   creator: "Mauricio Chavez",
   publisher: "Mauricio Chavez",
 };

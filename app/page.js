@@ -4,9 +4,12 @@ import Hero from "@components/hero/Hero";
 import Centered2x2 from "@components/features/Centered2x2";
 import TwoColumnDark from "@components/features/TwoColumnDark";
 import SimpleCentered from "@components/testimonials/SimpleCentered";
+import Form3 from "@components/forms/Form3.js";
 
 //Locales/Data
+import layout from "public/locales/english/layout.json";
 import language from "/public/locales/english/homepage.json";
+import contact from "public/locales/english/contact.json";
 
 // Icons
 
@@ -14,15 +17,12 @@ import language from "/public/locales/english/homepage.json";
 import image4 from "/public/images/homepage/photo1.jpeg";
 import Newsletter from "../components/newsletter/CTA1";
 import ProductScreenshot from "@components/features/ProductScreenshot";
+import Team3 from "@components/team/Team3";
 
 export default function Page() {
   return (
         <Fragment>
-            <Hero 
-              subtitle={language.index.hero.subtitle} 
-              title={language.index.hero.title} 
-              button={language.index.hero.button.title} 
-              buttonLink={language.index.hero.button.link} 
+            <Hero  
             />
 
             {/* Services */}
@@ -56,7 +56,7 @@ export default function Page() {
               paragraph={language.index.testimonials.paragraph}
               position={language.index.testimonials.position}
             />
-            
+            <Team3/>
 
             {/* Newsletter */}
             {/* <Newsletter
@@ -67,6 +67,12 @@ export default function Page() {
               buttonLink={language.index.newsletter.button.link}
               background="bg-back-2"
             /> */}
+            <Form3
+                    title = {contact.form.title}
+                    paragraph = {contact.form.paragraph}
+                    phone = {layout.number}
+                    email = {layout.email}
+                  />
         </Fragment>
   );
 }

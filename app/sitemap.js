@@ -1,37 +1,37 @@
 export default function sitemap() {
     return [
       {
-        url: 'https://vaporxcrawlspace.com',
+        url: 'https://encuentro.church',
         lastModified: new Date(),
         changeFrequency: 'yearly',
         priority: 1,
       },
       {
-        url: 'https://vaporxcrawlspace.com/about',
+        url: 'https://encuentro.church/about',
         lastModified: new Date(),
         changeFrequency: 'monthly',
         priority: 0.8,
       },
       {
-        url: 'https://vaporxcrawlspace.com/contact',
+        url: 'https://encuentro.church/contact',
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.5,
       },
       {
-        url: 'https://vaporxcrawlspace.com/service',
-        lastModified: new Date(),
-        changeFrequency: 'weekly',
-        priority: 0.5,
-      },
-      {
-        url: 'https://vaporxcrawlspace.com/portfolio',
+        url: 'https://encuentro.church/service',
         lastModified: new Date(),
         changeFrequency: 'weekly',
         priority: 0.5,
       },
       // {
-      //   url: 'https://vaporxcrawlspace.com/blog',
+      //   url: 'https://encuentro.church/portfolio',
+      //   lastModified: new Date(),
+      //   changeFrequency: 'weekly',
+      //   priority: 0.5,
+      // },
+      // {
+      //   url: 'https://encuentro.church/blog',
       //   lastModified: new Date(),
       //   changeFrequency: 'weekly',
       //   priority: 0.5,

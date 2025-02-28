@@ -24,19 +24,19 @@ function Navbar(props) {
 
 
     // Adds Sticky to Navbar
-    useEffect(() => {
-        window.addEventListener('scroll', isSticky);
-        return () => {
-            window.removeEventListener('scroll', isSticky);
-        };
-    });
-    const isSticky = (e) => {
-        const navbar = document.querySelector('.header-selection');
-        const scrollTop = window.scrollY;
-        scrollTop >= 250
-            ? navbar.classList.add('is-sticky')
-            : navbar.classList.remove('is-sticky');
-    };
+    // useEffect(() => {
+    //     window.addEventListener('scroll', isSticky);
+    //     return () => {
+    //         window.removeEventListener('scroll', isSticky);
+    //     };
+    // });
+    // const isSticky = (e) => {
+    //     const navbar = document.querySelector('.header-selection');
+    //     const scrollTop = window.scrollY;
+    //     scrollTop >= 250
+    //         ? navbar.classList.add('is-sticky')
+    //         : navbar.classList.remove('is-sticky');
+    // };
 
     return(
         <Fragment>
